@@ -480,6 +480,10 @@
    "dai": "は"
   }
  ],
+ "translation": {
+  "count": 6,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-utaeawase",
   "work": "歌絵合",
@@ -492,7 +496,7 @@
   "blocks": 6,
   "chars": 2007,
   "poems": 27,
-  "yaku": 0,
+  "yaku": 6,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T03:00:16+09:00"
